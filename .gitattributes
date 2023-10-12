@@ -1,1 +1,1 @@
-wind_0* filter=lfs diff=lfs merge=lfs -text
+wind_* filter=lfs diff=lfs merge=lfs -text
